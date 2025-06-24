@@ -1,19 +1,19 @@
-# ✅ Requirements List
+Requirements List
 
 To build and run the Java GUI Compiler project successfully, ensure the following dependencies and tools are available:
 
-## 🔧 System Requirements
-- **Operating System:** Windows, macOS, or Linux
-- **Java Development Kit (JDK):** Version **8 or higher**
-- **RAM:** Minimum 2GB (recommended: 4GB+)
+System Requirements
+- Operating System: Windows, macOS, or Linux
+- Java Development Kit (JDK): Version 8 or higher
+- RAM: Minimum 2GB (recommended: 4GB+)
 
-## 📦 Required Software
-- **JDK**: Must include `javac` (Java Compiler) and `java` (Java Runtime)
+Required Software
+- JDK: Must include `javac` (Java Compiler) and `java` (Java Runtime)
   - Download: [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html) or [OpenJDK](https://jdk.java.net/)
-- **Text Editor / IDE**: (Optional for editing)
+- Text Editor / IDE: (Optional for editing)
   - IntelliJ IDEA / VS Code / Eclipse / Notepad++
 
-## 📁 Project Dependencies
+Project Dependencies
 - No external libraries needed.
 - All components use **standard Java packages**:
   - `javax.swing.*`
@@ -24,6 +24,6 @@ To build and run the Java GUI Compiler project successfully, ensure the followin
   - `java.lang.reflect.*`
   - `java.net.*`
 
-## ✅ Optional Tools (for development ease)
-- **Git** – for version control and pushing to GitHub
-- **JAR Packager** – if you want to create a `.jar` executable
+Optional Tools (for development ease)
+- Git – for version control and pushing to GitHub
+- JAR Packager – if you want to create a `.jar` executable
