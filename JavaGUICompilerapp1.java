@@ -1,10 +1,4 @@
-import javax.swing.*;
-import javax.swing.text.*;
-import java.awt.*;
-import java.awt.event.*;
-import java.io.*;
-import java.net.*;
-import java.text.ParseException;
+
 
 import javax.tools.*;
 import javax.tools.JavaCompiler.CompilationTask;
@@ -760,3 +754,4 @@ public class JavaGUICompilerapp1 extends JFrame {
         });
     }
 }
+
